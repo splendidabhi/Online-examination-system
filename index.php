@@ -172,9 +172,6 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
 
 <!--Footer start-->
 <div class="row footer">
-<!--<div class="col-md-3 box">
-<a href="http://www.projectworlds/online-examination" target="_blank">About us</a>
-</div>-->
 <div class="col-md-4 box">
 <a href="#" data-toggle="modal" data-target="#login">Admin Login</a></div>
 <div class="col-md-4 box">
@@ -198,7 +195,7 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
 		 <img src="image/my.jpg" width=100 height=100 alt="Abhinav Yadav" class="img-circle">
 		 </div>
 		 <div class="col-md-5">
-		<a href="http://yugeshverma.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Abhinav Yadav</a>
+		<a href=" " style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Abhinav Yadav</a>
 		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+91 8542004876</h4>
 		<h4 style="font-family:'typo' ">abhi08071999@gmail.com</h4>
 		<h4 style="font-family:'typo' ">Indian Institute Of Information Technology ,Una</h4></div></div>
