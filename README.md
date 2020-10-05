@@ -3,7 +3,7 @@ Online examination system is a non removable examination pattern of today’s li
 We need more time saving and more accurate examination system as the number of applicants is increasing day by day.
 
 
-Front end: HTML, CSS, JavaScript
+Frontend: HTML, CSS, JavaScript
 
 HTML: HTML is used to create and save web document. E.g. Notepad/Notepad++
 CSS : (Cascading Style Sheets) Create attractive Layout
